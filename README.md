@@ -6,7 +6,7 @@ A burger application which you can order different items with shopping cart impl
 * MVVM Architecture
 * Dagger2
 * RxJava2
-* Retrofit
+* Retrofit2
 * Glide
 
 #### Screen
