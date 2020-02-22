@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Big Burger</string>
+    <string name="error_text">An error occurred while loading data.\nPlease check your internet connection.</string>
+    <string name="place_order">PLACE ORDER</string>
+    <string name="cart">Cart</string>
+    <string name="share_it">Share It</string>
+    <string name="exit">Exit</string>
+    <string name="share_text">Big Burger will be your favourite burger! \nGet the app and your first succulent burger will be on the house! </string>
+    <string name="share_subject">Big Burger Invitation</string>
+    <string name="share_via">Share the App via</string>
+    <string name="back_to_menu">BACK TO MENU</string>
+    <string name="empty_basket_text">You have to make an order first.\nYou have nothing in the basket.</string>
+    <string name="add_to_cart">ADD TO CART</string>
+</resources>
