@@ -1,5 +1,5 @@
 # BigBurgerProject
-A burger application which you can add order different items with shopping cart implementation.
+A burger application which you can order different items with shopping cart implementation.
 
 ### Used Technologies and Libraries
 
